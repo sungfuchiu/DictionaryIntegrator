@@ -5,6 +5,7 @@
 
 # Secrets
 App.config
+Settings.settings
 
 # User-specific files
 *.suo
