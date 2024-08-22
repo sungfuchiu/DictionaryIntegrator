@@ -4,8 +4,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # Secrets
-App.config
-Settings.settings
+App.config 
 
 # User-specific files
 *.suo
@@ -389,3 +388,6 @@ InteropTests/NativeTests/out
 # 'git update-index --assume-unchanged <filename>' will allow ignoring changes for tracked files.
 **/ScratchProject/
 **/ScratchProjectWithInternals/
+
+# Ignore all files in the Properties folder
+Properties/*
